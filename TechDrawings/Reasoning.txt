@@ -1,0 +1,4 @@
+I chose 2 of the thumbsticks in order to aesthetically match the controller to the ghost in pacman. 
+1 thumbstick and 1 button would have not been symetrical like the ghost.
+I did this because many thumbsticks can be wired to function as a button and not a thumbstick.
+I added many small plastic pillars to mount the thumbsticks to.

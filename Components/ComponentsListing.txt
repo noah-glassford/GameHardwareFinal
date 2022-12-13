@@ -1,0 +1,5 @@
+Components Are:
+Bottom shell all in 1 piece
+Top Lid
+Electronic Assembly (Arduino, 2 thumbsticks and a vibration motor)
+I couldn't save thigns as individual files
